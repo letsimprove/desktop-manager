@@ -4,6 +4,11 @@ Hardware and software for managing desktop workspace.
 - Use single keyboard and pointer for the whole desktop
 - Share assets between various machines
 ** Hardware
-- Single board computer
-- Network switch
-- Display
+*** Single board computer (SBC)
+- USB ports for keyboard and pointer
+- Ethernet port
+- Video output
+*** Network switch
+- Enough ports for every machine in the workspace
+*** Display
+- Video input compatible with SBC
