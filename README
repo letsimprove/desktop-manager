@@ -8,7 +8,10 @@ Hardware and software for managing desktop workspace.
 - USB ports for keyboard and pointer
 - Ethernet port
 - Video output
+- Example: Raspberry Pi 3B
 *** Network switch
 - Enough ports for every machine in the workspace
+- Example: TP-Link SG1008D - 1Gbit, 8 ports
 *** Display
 - Video input compatible with SBC
+- Example: Waveshare LCD 7" (C) - HDMI, portrait
